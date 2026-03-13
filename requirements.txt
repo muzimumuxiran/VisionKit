@@ -1,0 +1,7 @@
+opencv-python
+imutils
+imagededup
+scipy
+pyiqa
+numpy<2
+Pillow
